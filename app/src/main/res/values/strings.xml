@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Wapp</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="textNome">Digite seu nome</string>
+    <string name="validacao">Validação</string>
+    <string name="mensagen_validacao">Você recebeu um SMS para validação do seu número, digite o código de validação abaixo:</string>
+    <string name="digite_codigo">Digite o código!</string>
+    <string name="botao_validar">Validar</string>
 </resources>
