@@ -64,7 +64,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="995855253"
+        android:hint="99585-5253"
         android:inputType="number"
         android:textColor="@color/textColorPrimary"
         android:layout_below="@+id/edit_nome"
